@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ram_project/static/css/main.1658038e.css",
+    "main.js": "/ram_project/static/js/main.a47c9740.js",
+    "static/js/787.fe5ea835.chunk.js": "/ram_project/static/js/787.fe5ea835.chunk.js",
+    "index.html": "/ram_project/index.html",
+    "main.1658038e.css.map": "/ram_project/static/css/main.1658038e.css.map",
+    "main.a47c9740.js.map": "/ram_project/static/js/main.a47c9740.js.map",
+    "787.fe5ea835.chunk.js.map": "/ram_project/static/js/787.fe5ea835.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1658038e.css",
+    "static/js/main.a47c9740.js"
+  ]
+}
